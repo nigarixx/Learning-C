@@ -34,4 +34,6 @@ inclusive then that value counts as 0, except 13 and 17.
 
 16.c - Storing elements in an array.
 
-17.c - n number of values in an array and displaying it in reverse order.
+17.c - N number of values in an array and displaying it in reverse order.
+
+18.c - Sum of all elements of the array.
