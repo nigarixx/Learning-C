@@ -50,3 +50,7 @@ two given integers.
 23.c - Displaying two integers and return true if either one is 5 or their sum or difference is 5.
 
 24.c - Writing three integers from the user and find second largest number among these.
+
+25.c - Converting specified days into years, weeks and days.
+
+26.c - Accepting three integers and find the maximum of three.
