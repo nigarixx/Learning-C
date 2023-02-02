@@ -31,3 +31,7 @@ Learning to code in C programming language. (My personal journey in studying C p
 
 15.c - Sum of the three given integers. However, if any of the values is in the range 10..20 
 inclusive then that value counts as 0, except 13 and 17.
+
+16.c - Storing elements in an array.
+
+17.c - n number of values in an array and displaying it in reverse order.
