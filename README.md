@@ -46,3 +46,7 @@ two given integers.
 21.c - Writing a forename, surname and year of birth and displaying the names and the year one after another sequentially. 
 
 22.c - Writing hours and minutes as input, and calculates the total number of minutes.
+
+23.c - Displaying two integers and return true if either one is 5 or their sum or difference is 5.
+
+24.c - Writing three integers from the user and find second largest number among these.
