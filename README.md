@@ -12,3 +12,5 @@ Learning to code in C programming language. (My personal journey in studying C p
 5.c - Accepts three integers and find the maximum of three.
 
 6.c - Displaying the pattern like right angle triangle with a number.
+
+7.c - Displaying a pattern like right angle triangle with a number which will repeat a number in a row.
