@@ -6,3 +6,5 @@ Learning to code in C programming language. (My personal journey in studying C p
 2.c - Sum of first 10 natural numbers.
 
 3.c - Finding cube of the number upto a given integer.
+
+4.c- Sum of 2 integers.
