@@ -37,3 +37,8 @@ inclusive then that value counts as 0, except 13 and 17.
 17.c - N number of values in an array and displaying it in reverse order.
 
 18.c - Sum of all elements of the array.
+
+19.c - Checking which number nearest to the value 100 among 
+two given integers.
+
+20.c - Display the pattern like pyramid using the alphabet.
