@@ -16,3 +16,7 @@ Learning to code in C programming language. (My personal journey in studying C p
 7.c - Displaying a pattern like right angle triangle with a number which will repeat a number in a row.
 
 8.c - Displaying a pattern like right angle triangle with number increased by 1.
+
+9.c - Sum of the series 1 +11 + 111 + 1111 + .. n terms.
+
+10.c - Displaying the pattern like a diamond.
