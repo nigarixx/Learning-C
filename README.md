@@ -54,3 +54,11 @@ two given integers.
 25.c - Converting specified days into years, weeks and days.
 
 26.c - Accepting three integers and find the maximum of three.
+
+mario1.c - Displaying half pyramid in left.
+
+mario2.c - Displaying half pyramid in right.
+
+mario3.c - Displaying half pyramid in opposed.
+
+mario4.c - Displaying half pyramid in upside down.
