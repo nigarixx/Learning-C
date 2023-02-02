@@ -42,3 +42,7 @@ inclusive then that value counts as 0, except 13 and 17.
 two given integers.
 
 20.c - Display the pattern like pyramid using the alphabet.
+
+21.c - Writing a forename, surname and year of birth and displaying the names and the year one after another sequentially. 
+
+22.c - Writing hours and minutes as input, and calculates the total number of minutes.
