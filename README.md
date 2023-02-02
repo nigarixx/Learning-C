@@ -24,3 +24,10 @@ Learning to code in C programming language. (My personal journey in studying C p
 11.c - Displaying the pattern like a pyramid.
 
 12.c - Displaying the pattern in which the first and a last number of each row will be 1
+
+13.c - Accept the height of a person in centimeter and categorize the person according to their height.
+
+14.c - Accept a coordinate point in a XY coordinate system and determine in which quadrant the coordinate point lies.
+
+15.c - Sum of the three given integers. However, if any of the values is in the range 10..20 
+inclusive then that value counts as 0, except 13 and 17.
