@@ -22,3 +22,5 @@ Learning to code in C programming language. (My personal journey in studying C p
 10.c - Displaying the pattern like a diamond.
 
 11.c - Displaying the pattern like a pyramid.
+
+12.c - Displaying the pattern in which the first and a last number of each row will be 1
