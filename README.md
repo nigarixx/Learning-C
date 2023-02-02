@@ -8,3 +8,5 @@ Learning to code in C programming language. (My personal journey in studying C p
 3.c - Finding cube of the number upto a given integer.
 
 4.c- Sum of 2 integers.
+
+5.c - Accepts three integers and find the maximum of three.
